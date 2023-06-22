@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kwashie Andoh</h1>
 <h3 align="center">A passionate web developer and ML enthusiast from Ghana!</h3>
 
-- 🔭 I’m currently working on a microfinance app called **XAccounts.**
+- 🔭 I’m an Electrical/Electronic Engineering undergrad at **KNUST.**
 
 - 🌱 I’m currently learning **ML with TensorFlow**
 
