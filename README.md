@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **ML with TensorFlow**
 
 - 📫 How to reach me **kwashieee@gmail.com**
+  
+- 🧑🏾‍💻 Portfolio Site: **https://kwash67.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
